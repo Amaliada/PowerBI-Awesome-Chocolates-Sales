@@ -59,21 +59,6 @@ Report Design	Bookmarks, Buttons, Filters, Custom Visuals
 
 💼 Salesperson Performance
 
-⚙️ How to Use
-
-Open the .pbix file in Power BI Desktop
-
-Enable all visuals and filters
-
-Interact with slicers for:
-
-Country
-
-Product Category
-
-Salesperson
-
-Explore different pages: Sales Report, Shipments, Profit Analysis, Performance Overview
 
 📈 Insights Summary
 
@@ -111,7 +96,7 @@ This project is for educational and portfolio purposes only.
 👩‍💻 Author
 
 Dana Nica
-📍 Timisoara, Romania
+📍 Lugoj, Romania
 🔗 GitHub Profile
 
 “Transforming business data into actionable insights through Power BI and data storytelling.”
